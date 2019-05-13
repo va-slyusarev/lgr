@@ -4,7 +4,7 @@ Another implementation of the logger with levels.
 ## Install
 
 ```sh
-go get github.com/va-slyusarev/lgr...
+go get github.com/va-slyusarev/lgr
 ```
 
 ## Levels
